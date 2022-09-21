@@ -1,0 +1,16 @@
+{
+  "name": "barebones-djs-bot",
+  "version": "1.0.0",
+  "description": "🤖 Barebones discord.js bot I made to explain how djs and js works to someone who's completely new to this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nance",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.7.0"
+  }
+}
